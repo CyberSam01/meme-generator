@@ -13,6 +13,7 @@ body, html {
 
 .App {
   width: 50%;
+  max-height: 95vh;
   margin: 0 auto;
   background-color: white;
   border-radius: 8px;
