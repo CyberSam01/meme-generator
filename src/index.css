@@ -86,7 +86,7 @@ body, html {
 }
 
 .meme-img {
-  height: 50vh;
+  height: 40vh;
   grid-column: 1 / -1;
   margin: 0 auto;
   max-width: 100%;
